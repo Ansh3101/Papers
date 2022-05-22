@@ -20,5 +20,5 @@ One Of The First Papers To Discuss The Implementation Convolutional Neural Nets
 ### Code
 
 - <b>[Model](https://github.com/Ansh3101/Papers/blob/main/LeNet.py)</b>
-- <b>[Implementation]()</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/LeNet%20Implementation.ipynb)</b>
 
