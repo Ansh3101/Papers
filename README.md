@@ -1,5 +1,5 @@
 # Papers
-### Popular Deep Learning Papers Penned All In One Place
+### Most Popular Deep Learning Papers Published All In One Place
 <br />
 
 ## Contents 
