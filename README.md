@@ -6,6 +6,7 @@
 
 - ### [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 - ### [VGG (Visual Geometry Group)](https://arxiv.org/pdf/1409.1556.pdf)
+- ### [GoogLeNet](https://arxiv.org/pdf/1409.4842.pdf)
 
 <br />
 
@@ -39,5 +40,8 @@ One Of The First Papers To Suggest Increasing Depth Of A ConvNet On It's Accurac
 - <b>[Model](https://github.com/Ansh3101/Papers/blob/main/VGG.py)</b>
 - <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/VGG%20Implementation.ipynb)</b>
 
+<br />
 
+## GoogLeNet
 
+### More Details Coming Soon!
