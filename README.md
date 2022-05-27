@@ -21,8 +21,8 @@ One Of The First Papers To Discuss The Implementation Convolutional Neural Nets
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/LeNet/blob/main/LeNet.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/LeNet/blob/main/LeNet%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/LeNet/LeNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/LeNet/LeNet%20Implementation.ipynb)</b>
 
 <br />
 
@@ -37,8 +37,8 @@ One Of The First Papers To Suggest Increasing Depth Of A ConvNet On It's Accurac
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/VGG/blob/main/VGG.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/VGG/blob/main/VGG%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/VGG/VGG.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/VGG/VGG%20Implementation.ipynb)</b>
 
 <br />
 
@@ -60,7 +60,7 @@ The First Paper To Apply Dimensionality Reduction With Stacked 1x1 Convolutions 
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet/GoogLeNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet/GoogLeNet%20Implementation.ipynb)</b>
 
 <br />
