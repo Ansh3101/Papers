@@ -21,8 +21,8 @@ One Of The First Papers To Discuss The Implementation Convolutional Neural Nets
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/LeNet.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/LeNet%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/Papers/LeNet/blob/main/LeNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/LeNet/blob/main/LeNet%20Implementation.ipynb)</b>
 
 <br />
 
@@ -37,11 +37,30 @@ One Of The First Papers To Suggest Increasing Depth Of A ConvNet On It's Accurac
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/VGG.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/VGG%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/Papers/VGG/blob/main/VGG.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/VGG/blob/main/VGG%20Implementation.ipynb)</b>
 
 <br />
 
 ## GoogLeNet
 
-### More Details Coming Soon!
+The First Paper To Apply Dimensionality Reduction With Stacked 1x1 Convolutions To Allow For More Efficient Computation
+<br />
+
+### Model Architecture
+
+#### Inception Block
+<img width="838" alt="Screenshot 2022-05-27 at 9 12 36 AM" src="https://user-images.githubusercontent.com/105856839/170624846-788da5a7-04eb-4af7-badc-925e3c5d66b3.png">
+
+
+#### GoogLeNet Architecture
+<img alt="Screenshot 2022-05-27 at 9 14 10 AM" src="https://media.geeksforgeeks.org/wp-content/uploads/20200429201549/Inceptionv1_architecture.png">
+<br />
+
+
+### Code
+
+- <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet%20Implementation.ipynb)</b>
+
+<br />
