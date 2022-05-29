@@ -7,6 +7,7 @@
 - ### [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 - ### [VGG (Visual Geometry Group)](https://arxiv.org/pdf/1409.1556.pdf)
 - ### [GoogLeNet](https://arxiv.org/pdf/1409.4842.pdf)
+- ### [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
 
 <br />
 
