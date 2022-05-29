@@ -65,3 +65,7 @@ The First Paper To Apply Dimensionality Reduction With Stacked 1x1 Convolutions 
 - <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet/GoogLeNet%20Implementation.ipynb)</b>
 
 <br />
+
+## ResNet
+
+### More Details Coming Soon!
