@@ -73,8 +73,15 @@ First Paper To Solve The Issue Of Vanishing/Exploding Gradients In Deep CNNs.
 
 ### Model Architecture
 
-#### Coming Soon!
+
+#### Residual Block
+<img width="838" alt="Screenshot 2022-05-31 at 7 45 08 PM" src="https://user-images.githubusercontent.com/105856839/171194924-547aa99c-f6bd-4617-b6f0-4431a1a2b1cc.png">
+
+
+#### ResNet Architecture
+<img width="700" alt="Screenshot 2022-05-31 at 7 50 11 PM" src="https://user-images.githubusercontent.com/105856839/171196425-40dd99ef-a9c0-43e8-88c6-79bc4be1264f.png">
 <br />
+
 
 ### Code
 
