@@ -68,4 +68,17 @@ The First Paper To Apply Dimensionality Reduction With Stacked 1x1 Convolutions 
 
 ## ResNet
 
-### More Details Coming Soon!
+First Paper To Solve The Issue Of Vanishing/Exploding Gradients In Deep CNNs.
+<br />
+
+### Model Architecture
+
+#### Coming Soon!
+<br />
+
+### Code
+
+- <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/ResNet/ResNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/ResNet/ResNet%20Implementation.ipynb)</b>
+
+
