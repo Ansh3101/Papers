@@ -9,6 +9,7 @@
 - ### [GoogLeNet](https://arxiv.org/pdf/1409.4842.pdf)
 - ### [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
 
+<b>EfficientNet, Transformers & More Coming Soon!</b>
 <br />
 
 ## LeNet 
