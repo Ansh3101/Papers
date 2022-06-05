@@ -52,7 +52,7 @@ The First Paper To Apply Dimensionality Reduction With Stacked 1x1 Convolutions 
 ### Model Architecture
 
 #### Inception Block
-<img width="838" alt="Screenshot 2022-05-27 at 9 12 36 AM" src="https://user-images.githubusercontent.com/105856839/170624846-788da5a7-04eb-4af7-badc-925e3c5d66b3.png">
+<img width="828" alt="Screenshot 2022-05-27 at 9 12 36 AM" src="https://user-images.githubusercontent.com/105856839/170624846-788da5a7-04eb-4af7-badc-925e3c5d66b3.png">
 
 
 #### GoogLeNet Architecture
@@ -76,7 +76,7 @@ First Paper To Solve The Issue Of Vanishing/Exploding Gradients In Deep CNNs.
 
 
 #### Residual Block
-<img width="838" alt="Screenshot 2022-05-31 at 7 45 08 PM" src="https://user-images.githubusercontent.com/105856839/171194924-547aa99c-f6bd-4617-b6f0-4431a1a2b1cc.png">
+<img width="828" alt="Screenshot 2022-05-31 at 7 45 08 PM" src="https://user-images.githubusercontent.com/105856839/171194924-547aa99c-f6bd-4617-b6f0-4431a1a2b1cc.png">
 
 
 #### ResNet Architecture
