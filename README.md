@@ -8,8 +8,8 @@
 - ### [VGG (Visual Geometry Group)](https://arxiv.org/pdf/1409.1556.pdf)
 - ### [GoogLeNet](https://arxiv.org/pdf/1409.4842.pdf)
 - ### [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+- ### [LinearGAN](https://arxiv.org/pdf/1406.2661.pdf)
 
-<b>EfficientNet, Transformers & More Coming Soon!</b>
 <br />
 
 ## LeNet 
@@ -89,4 +89,8 @@ First Paper To Solve The Issue Of Vanishing/Exploding Gradients In Deep CNNs.
 - <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/ResNet/ResNet.py)</b>
 - <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/ResNet/ResNet%20Implementation.ipynb)</b>
 
+<br />
 
+## LinearGAN / PrimitiveGAN
+
+### More Details Coming Soon!
