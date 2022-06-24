@@ -107,8 +107,8 @@ Introduction To Generative Adversial Networks
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/LinearGAN/LinearGAN.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/LinearGAN/LinearGAN%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/LinearGAN/LinearGAN.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/LinearGAN/LinearGAN%20Implementation.ipynb)</b>
 
 <br />
 
