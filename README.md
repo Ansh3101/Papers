@@ -112,3 +112,7 @@ Introduction To Generative Adversial Networks
 
 <br />
 
+### Result
+<img alt="Screenshot 2022-05-23 at 6 41 58 PM" src="https://user-images.githubusercontent.com/105856839/175522562-e35ecc2d-16f5-4b63-836f-cedd3d378c08.png">
+
+<br />
