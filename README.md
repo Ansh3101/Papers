@@ -93,4 +93,21 @@ First Paper To Solve The Issue Of Vanishing/Exploding Gradients In Deep CNNs.
 
 ## LinearGAN / PrimitiveGAN
 
-### More Details Coming Soon!
+
+Introduction To Generative Adversial Networks
+<br />
+
+### Model Architecture
+
+#### Discriminator/Generator Architecture
+![Architecture-of-the-generator-and-discriminator-of-unpaired-CycleGAN-Conv-2D](https://user-images.githubusercontent.com/105856839/175521872-d5a0c126-7790-403b-ab15-fa61f3d8a2dd.png)
+
+<br />
+
+
+### Code
+
+- <b>[Model+Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/LinearGAN/LinearGAN.ipynb)</b>
+
+<br />
+
