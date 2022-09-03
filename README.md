@@ -9,6 +9,7 @@
 - ### [GoogLeNet](https://arxiv.org/pdf/1409.4842.pdf)
 - ### [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
 - ### [LinearGAN](https://arxiv.org/pdf/1406.2661.pdf)
+- ### [DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
 
 <br />
 
@@ -117,5 +118,5 @@ Introduction To Generative Adversial Networks
 
 <br />
 
-
+## DCGAN Description Coming Later
 ## Check Out Issue For To Do!
