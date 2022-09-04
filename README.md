@@ -1,3 +1,5 @@
+<img width=100% height=600 alt="Screenshot 2022-05-23 at 6 41 58 PM" src="https://user-images.githubusercontent.com/105856839/188328167-f992ad9e-dd43-4515-a701-5af72f2b3a28.png"/>
+
 # Papers
 ### Most Popular Deep Learning Papers Published All In One Place
 <br />
@@ -131,14 +133,14 @@ Convolutions Integrated In To Generative Adversial Networks
 
 <br />
 
-### DigitGAN
+## DigitGAN
 
-#### Code
+### Code
 
 - <b>[Model]()</b>
 - <b>[Implementation]()</b>
 
-#### Result
+### Result
 <img width=500 src="https://github.com/Ansh3101/Papers/blob/main/DCGAN/DigitsGAN/Results.png/">
 
 <br />
