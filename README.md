@@ -22,7 +22,7 @@ One Of The First Papers To Discuss The Implementation Convolutional Neural Nets
 
 ### Model Architecture
 
-<img width="734" height="200" alt="Screenshot 2022-05-21 at 12 56 58 AM" src="https://user-images.githubusercontent.com/105856839/169598176-e7d6cf53-a3ff-4c83-8aad-e52e232d17dc.png">
+<img width="900" alt="Screenshot 2022-05-21 at 12 56 58 AM" src="https://user-images.githubusercontent.com/105856839/169598176-e7d6cf53-a3ff-4c83-8aad-e52e232d17dc.png">
 
 ### Code
 
@@ -38,7 +38,7 @@ One Of The First Papers To Suggest Increasing Depth Of A ConvNet On It's Accurac
 
 ### Model Architecture
 
-<img width="678" alt="Screenshot 2022-05-23 at 6 41 58 PM" src="https://user-images.githubusercontent.com/105856839/169827087-70ba51c3-125c-46de-aa0d-37b3d486a6ef.png">
+<img width="550" alt="Screenshot 2022-05-23 at 6 41 58 PM" src="https://user-images.githubusercontent.com/105856839/169827087-70ba51c3-125c-46de-aa0d-37b3d486a6ef.png">
 
 ### Code
 
@@ -72,18 +72,18 @@ The First Paper To Apply Dimensionality Reduction With Stacked 1x1 Convolutions 
 
 ## ResNet
 
-First Paper To Solve The Issue Of Vanishing/Exploding Gradients In Deep CNNs.
+First Paper To Solve The Issue Of Vanishing And/OrExploding Gradients In Deep CNNs.
 <br />
 
 ### Model Architecture
 
 
 #### Residual Block
-<img width="828" alt="Screenshot 2022-05-31 at 7 45 08 PM" src="https://user-images.githubusercontent.com/105856839/171194924-547aa99c-f6bd-4617-b6f0-4431a1a2b1cc.png">
+<img width="600" alt="Screenshot 2022-05-31 at 7 45 08 PM" src="https://user-images.githubusercontent.com/105856839/171194924-547aa99c-f6bd-4617-b6f0-4431a1a2b1cc.png">
 
 
 #### ResNet Architecture
-<img width="700" alt="Screenshot 2022-05-31 at 7 50 11 PM" src="https://user-images.githubusercontent.com/105856839/171196425-40dd99ef-a9c0-43e8-88c6-79bc4be1264f.png">
+<img width="900" height="400" alt="Screenshot 2022-05-31 at 7 50 11 PM" src="https://user-images.githubusercontent.com/105856839/171196425-40dd99ef-a9c0-43e8-88c6-79bc4be1264f.png">
 <br />
 
 
@@ -103,7 +103,7 @@ Introduction To Generative Adversial Networks
 ### Model Architecture
 
 #### Discriminator/Generator Architecture
-![Architecture-of-the-generator-and-discriminator-of-unpaired-CycleGAN-Conv-2D](https://user-images.githubusercontent.com/105856839/175521872-d5a0c126-7790-403b-ab15-fa61f3d8a2dd.png)
+<img width="600" src="https://user-images.githubusercontent.com/105856839/175521872-d5a0c126-7790-403b-ab15-fa61f3d8a2dd.png" />
 
 <br />
 
@@ -129,7 +129,7 @@ Convolutions Integrated In To Generative Adversial Networks
 ### Model Architecture
 
 #### Discriminator/Generator Architecture
-![image](https://user-images.githubusercontent.com/105856839/188301432-304b1025-5616-4951-a39e-0fcb994328ed.png)
+<img width="600" src="https://user-images.githubusercontent.com/105856839/188301432-304b1025-5616-4951-a39e-0fcb994328ed.png" />
 
 <br />
 
