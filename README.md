@@ -122,7 +122,7 @@ Introduction To Generative Adversial Networks
 
 
 Convolutions Integrated In To Generative Adversial Networks
-br />
+<br />
 
 ### Model Architecture
 
@@ -131,10 +131,15 @@ br />
 
 <br />
 
+### DigitGAN
 
-### Code
+#### Code
 
+- <b>[Model]()</b>
+- <b>[Implementation]()</b>
 
+#### Result
+<img width=500 src="https://github.com/Ansh3101/Papers/blob/main/DCGAN/DigitsGAN/Results.png/">
 
 <br />
 
