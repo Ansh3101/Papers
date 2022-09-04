@@ -118,5 +118,24 @@ Introduction To Generative Adversial Networks
 
 <br />
 
-## DCGAN Description Coming Later
+## DCGAN / ConvolutionalGAN
+
+
+Convolutions Integrated In To Generative Adversial Networks
+br />
+
+### Model Architecture
+
+#### Discriminator/Generator Architecture
+![image](https://user-images.githubusercontent.com/105856839/188301432-304b1025-5616-4951-a39e-0fcb994328ed.png)
+
+<br />
+
+
+### Code
+
+
+
+<br />
+
 ## Check Out Issue For To Do!
