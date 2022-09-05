@@ -1,7 +1,7 @@
 <img width=100% height=600 alt="Screenshot 2022-05-23 at 6 41 58 PM" src="https://user-images.githubusercontent.com/105856839/188328167-f992ad9e-dd43-4515-a701-5af72f2b3a28.png"/>
 
-# Papers
-### Most Popular Deep Learning Papers Published All In One Place
+# DeepLearning Papers
+### Greatest Deep Learning Models - Built And Implemented In PyTorch
 <br />
 
 ## Contents 
@@ -26,8 +26,8 @@ One Of The First Papers To Discuss The Implementation Convolutional Neural Nets
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/LeNet/LeNet.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/LeNet/LeNet%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/DeepLearning-Papers/blob/main/LeNet/LeNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/DeepLearning-Papers/blob/main/LeNet/LeNet%20Implementation.ipynb)</b>
 
 <br />
 
@@ -42,8 +42,8 @@ One Of The First Papers To Suggest Increasing Depth Of A ConvNet On It's Accurac
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/VGG/VGG.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/VGG/VGG%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/DeepLearning-Papers/blob/main/VGG/VGG.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/DeepLearning-Papers/blob/main/VGG/VGG%20Implementation.ipynb)</b>
 
 <br />
 
@@ -65,14 +65,14 @@ The First Paper To Apply Dimensionality Reduction With Stacked 1x1 Convolutions 
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet/GoogLeNet.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/GoogLeNet/GoogLeNet%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/DeepLearning-Papers/GoogLeNet/blob/main/GoogLeNet/GoogLeNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/DeepLearning-Papers/GoogLeNet/blob/main/GoogLeNet/GoogLeNet%20Implementation.ipynb)</b>
 
 <br />
 
 ## ResNet
 
-First Paper To Solve The Issue Of Vanishing And/OrExploding Gradients In Deep CNNs.
+First Paper To Solve The Issue Of Vanishing And/Or Exploding Gradients In Deep CNNs.
 <br />
 
 ### Model Architecture
@@ -89,8 +89,8 @@ First Paper To Solve The Issue Of Vanishing And/OrExploding Gradients In Deep CN
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/ResNet/ResNet.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/GoogLeNet/blob/main/ResNet/ResNet%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/DeepLearning-Papers/GoogLeNet/blob/main/ResNet/ResNet.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/DeepLearning-Papers/GoogLeNet/blob/main/ResNet/ResNet%20Implementation.ipynb)</b>
 
 <br />
 
@@ -110,8 +110,8 @@ Introduction To Generative Adversial Networks
 
 ### Code
 
-- <b>[Model](https://github.com/Ansh3101/Papers/blob/main/LinearGAN/LinearGAN.py)</b>
-- <b>[Implementation](https://github.com/Ansh3101/Papers/blob/main/LinearGAN/LinearGAN%20Implementation.ipynb)</b>
+- <b>[Model](https://github.com/Ansh3101/DeepLearning-Papers/blob/main/LinearGAN/LinearGAN.py)</b>
+- <b>[Implementation](https://github.com/Ansh3101/DeepLearning-Papers/blob/main/LinearGAN/LinearGAN%20Implementation.ipynb)</b>
 
 <br />
 
@@ -141,7 +141,7 @@ Convolutions Integrated In To Generative Adversial Networks
 - <b>[Implementation]()</b>
 
 ### Result
-<img width=500 src="https://github.com/Ansh3101/Papers/blob/main/DCGAN/DigitsGAN/Results.png/">
+<img width=500 src="https://github.com/Ansh3101/DeepLearning-Papers/blob/main/DCGAN/DigitsGAN/Results.png/">
 
 <br />
 
