@@ -141,7 +141,19 @@ Convolutions Integrated In To Generative Adversial Networks
 - <b>[Implementation]()</b>
 
 ### Result
-<img width=500 src="https://github.com/Ansh3101/DeepLearning-Papers/blob/main/DCGAN/DigitsGAN/Results.png/">
+<img width=500 src="https://github.com/Ansh3101/DeepLearning-Papers/blob/main/DCGAN/DigitGAN/Results.png/">
+
+<br />
+
+## DigitGAN
+
+### Code
+
+- <b>[Model]()</b>
+- <b>[Implementation]()</b>
+
+### Result
+<img width=500 src="https://github.com/Ansh3101/DeepLearning-Papers/blob/main/DCGAN/FaceGAN/Results.png/">
 
 <br />
 
