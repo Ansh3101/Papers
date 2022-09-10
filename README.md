@@ -1,6 +1,6 @@
 <img width=100% height=600 alt="Screenshot 2022-05-23 at 6 41 58 PM" src="https://user-images.githubusercontent.com/105856839/188328167-f992ad9e-dd43-4515-a701-5af72f2b3a28.png"/>
 
-# DeepLearning Papers
+# Deep Learning Papers
 ### Greatest Deep Learning Models - Built And Implemented In PyTorch
 <br />
 
