@@ -145,7 +145,7 @@ Convolutions Integrated In To Generative Adversial Networks
 
 <br />
 
-## DigitGAN
+## FaceGAN
 
 ### Code
 
